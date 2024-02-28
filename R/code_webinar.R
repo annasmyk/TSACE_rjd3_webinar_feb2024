@@ -142,3 +142,11 @@ transfer_series(
     jsap_to = new_jsap,
     selected_series = c("RF0899", "RF1039", "RF1041")
 )
+
+# Saving the ws
+
+save_workspace(
+    jws = jws_work,
+    file = "WS/new_ws_work2.xml",
+    replace = TRUE
+)

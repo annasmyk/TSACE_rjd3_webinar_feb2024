@@ -15,7 +15,8 @@ In this repository, you will find:
 
 ## Using the contents
 
-To use the R programs, just open the script code_webinar.R
+To use the R programs, just open and execute the script `code_webinar.R`.
+You can also check the **created WS** (`ws_work`, `new_ws_work` and `new_ws_work2`).
 
 
 ## ®️ Using packages
