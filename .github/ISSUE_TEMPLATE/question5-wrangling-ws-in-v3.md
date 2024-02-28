@@ -1,5 +1,5 @@
 ---
-name: Wrangling workspaces with R
+name: Wrangling workspaces with R in V3
 about: Ask a question
 title: "[Question]"
 labels: ''
