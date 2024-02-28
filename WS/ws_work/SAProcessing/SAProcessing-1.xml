@@ -1,0 +1,2177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informationSet xmlns="ec/tss.core">
+    <item name="sa1">
+        <subset>
+            <item name="name">
+                <string>RF0610</string>
+            </item>
+            <item name="ts">
+                <ts name="RF0610 (frozen)" source="" identifier="87504afa-aec3-4876-8277-6b4131cb89c7">
+                    <freq>12</freq>
+                    <firstYear>1990</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>511.1494506798 443.8817685518 510.5949600957 472.7245513417 476.6875827068 452.245489402 396.7074157834 466.8310025918 462.4470034589 485.1588636033 459.9823948092 467.9121665066 459.1979482639 405.7016610435 459.8192002561 450.5931445511 470.2061626688 452.0878582995 458.050022941 460.7186247821 455.8450419896 479.6807191707 453.0373538816 463.4743873504 457.1153632273 430.0287763677 467.8435506149 451.4276621525 462.7678291145 438.8561181075 455.3869845505 443.1084489078 428.0871320816 433.9417366767 417.6074454909 429.4279236946 429.312945714 392.0378261823 429.1274973581 426.7166687317 431.7237743404 409.4699716349 420.2259762759 411.5099035496 410.0263167026 443.5924691167 439.6980536432 463.6208915516 454.9048188253 401.8665890439 450.9955674833 426.5145300238 441.7212952058 436.7957868737 430.6667187119 428.3282149443 422.911268469 424.7268078731 407.1259044166 407.7823915965 398.1242412223 355.9199043914 406.1671364167 379.4755545551 396.4681874043 388.0284327282 385.4228833281 386.9213060436 374.2366385015 393.2933115516 405.2380401538 369.7339524208 370.0547780765 323.2643015502 351.2966768793 339.440963488 344.1958593327 327.1883887606 334.0499797826 324.7961049697 305.8284471305 306.3143218229 291.7306631166 294.8295051433 285.7462446723 264.2379443575 282.3525397598 270.2112359004 275.3221925884 259.6054444277 281.2342861738 270.0925489526 271.9303421594 285.7202819025 268.2547557459 286.1115779334 277.4956473193 251.2472870282 275.5744023524 260.2841854102 266.7897137344 253.6952053258 270.9511748403 260.6699179904 257.9085919714 266.4169625391 264.4456465161 263.0028583074 256.2210119329 231.1910473399 251.0247490011 233.1364005931 216.5220823899 231.8679338389 246.6444588353 243.9183680039 237.6483590916 249.9306037015 235.5806099236 219.7025216932 223.8009303581 213.1024147075 228.2350005472 195.4087870731 216.0362076975 217.7849856934 222.0669882307 230.9833451813 220.7113607492 224.5408692981 209.5677690444 226.4713866828 221.6052218245 200.3825119778 219.6190699331 208.9502260194 220.9060815229 208.5533665378 215.0792941812 216.8187997593 212.7611897327 220.4146433798 206.2908965961 212.4014199223 215.201690096 192.7068045279 221.0284774377 210.8121275124 209.5028621199 194.9674199861 200.7830804265 201.2708096024 197.6063500903 206.5931774161 195.4978022839 196.2933757306 189.7711570544 177.882062959 199.4293074285 192.0021007756 201.4877841788 187.1563352365 188.8216614723 179.2710711445 177.5278565992 185.7042746099 177.2292847463 192.9237791043 185.2146909504 174.9612513539 185.7580546332 178.6683639879 192.0577352824 173.5091907274 177.4369869049 173.1420029827 166.588258086 168.4724133817 168.2647112231 175.3655287697 176.259389845 150.8492561225 169.395946194 156.243948795 165.831628794 158.8346623267 167.0852596797 172.7729607545 168.1497332425 175.5917757639 166.6550194941 172.0719659693 169.3903827433 153.7663587605 163.4764346743 156.5721923849 164.0327797419 159.4855860558 162.0596092354 163.6748644151 164.5501806548 170.9926565381 164.1013956336 165.0342008637 145.6307393881 123.9536810694 152.7371203854 147.4073346374 157.2843140715 152.2197194725 156.1549335842 154.8159964548 149.8292901652 157.6107031779 150.7008974378 159.2203949069 156.5313937466 145.7735346221 156.7502228066 151.5150157201 151.9489648729 150.0685185443 158.5101277039 153.6402538785 144.555138924 148.6591110396 138.594828766 146.5042011443 136.0263690371 139.2921145842 144.7034976087 139.9634376324 143.1587128042 143.1587128042 140.0413259419 140.9834035898 135.661035776 141.5230583054 135.6313640391 138.1682975475 134.0420716292 116.242738432 136.4065381667 133.5951410916 130.0159878231 142.3445945219 146.2353010283 144.0284655933 143.0307534387 147.5297305523 141.793812905 145.534306243 144.7554231483 129.5931655717 145.4731082856 142.0089329978 145.3599847885 137.4918895053 138.6652991413 141.5805472957 138.6782805262 136.951756333 131.7091313123 131.9057065695 122.4163141992 118.466264219 131.9761769447 129.4262620514 130.6020046277 123.9406996845 125.0830615567 127.4512370613 121.6986290619 124.1280025239 121.479800002 123.0987641488 114.2429505229 111.669581976 124.3049480727 118.0434419676 122.2331450036 120.6142643085 130.4006485118 136.6814060108 124.5813885189 122.4942025086 117.7416099325 122.2609270218 118.4638515358 106.2428345552 119.8531527298 117.2709364418 121.9990776523 114.8407488615 123.0245848065 120.8845107796 119.2618376657 123.0060399709 116.0405997241 120.5228864857 120.0110490234 113.4628675773 129.8602112042 128.5194195911 137.6360607662 132.2636218963 136.65318448 130.3980114362 124.6639482724 131.5607726276 130.9840282408 133.3447858111 129.9084277767 126.1438261523 132.3396557223 131.1101331228 129.478187591 123.7775051313 129.0553653396 126.9705920125 119.3900158603 124.7956166051 117.5487065527 122.3604923896 117.5860836688 103.7599017535 118.0966934629 120.0694763824 122.5739230479 115.029340567 117.662992811 116.9011301664 116.4788049166 119.8008136403 117.6632542932 119.5225112926 116.5618412724 107.4423423382 124.0036019123 121.5687373245 121.1237391587 120.8251673057 122.3050451856 121.7301552824 118.3179055343 124.3153053634 116.9734049541 119.6364433446 119.8571658322 110.6280539383 119.7552415613 115.3605346403 93.2974822592 95.1071002972 107.3768976135 117.1917815201 114.9431719885 122.5423634467 114.4341904309 113.3851647162 112.9738217181 109.1927893694 110.9519710181 72.175943763 63.95579703 95.3006119476 105.1053407023 109.4597422777 106.9313950281 110.665712936 103.1642342165 104.9352289255 107.3927905376 95.8338316053 104.8731964504 102.724053999 105.6773931418 101.9489911404 102.1523167178 103.7894918932 99.392771003 81.0220528764 95.9417810933 99.2513295419 99.4470702816 89.8683103486 101.1488000296 96.0010132981 97.7206388125 94.0017131182 89.3088868382 84.9086053396 83.4106647898 88.8485112947 87.7563317476 91.619740256 92.6166920723 82.7032534915 87.0192301675 90.9562060386 98.0246999368 89.2495989988 91.8045395426 93.8306555548 88.5541305746 90.1444800401</data>
+                    <metaData>
+                        <property name="@source" value="Txt"/>
+                        <property name="@id" value="demetra://tsprovider/Txt/20111201/SERIES?datePattern=dd%2FMM%2Fyyyy&amp;delimiter=SEMICOLON&amp;file=C%3A%5CUsers%5CUTZK0M%5CDesktop%5Cproject_for_sa%5Cdata%5CIPI_nace4.csv#seriesIndex=0"/>
+                        <property name="@timestamp" value="2024-02-28"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="estimationspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Log</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="period">
+        <integer>12</integer>
+    </item>
+    <item name="d">
+        <integer>1</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.18525080157496313</value>
+            </coef>
+        </params>
+    </item>
+    <item name="bd">
+        <integer>1</integer>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9253363729558413</value>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="outlier1">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1990-07-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1990-07-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.16747630531766472</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier2">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1995-11-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1995-11-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.09797836919329257</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier3">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1999-05-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1999-05-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.11616243622647085</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier4">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>1999-12-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (1999-12-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.10183694639966716</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier5">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2000-04-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2000-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.13544698996744134</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier6">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2007-01-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2007-01-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.10462377781137612</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier7">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2007-02-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2007-02-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.09410955783630551</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier8">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2009-02-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2009-02-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.0829212907777106</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier9">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2010-06-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2010-06-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.1234429827684008</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier10">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2019-05-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2019-05-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.26201702705651403</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier11">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2020-04-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2020-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.43051870384882746</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier12">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2020-05-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2020-05-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.31679431869699515</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier13">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2021-10-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2021-10-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.22774061533369333</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa2">
+        <subset>
+            <item name="name">
+                <string>RF0620</string>
+            </item>
+            <item name="ts">
+                <ts name="RF0620 (frozen)" source="" identifier="c2272ece-c4d9-433d-8afc-74325fd514b0">
+                    <freq>12</freq>
+                    <firstYear>1990</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>2963.638636076 2778.0493293304 3074.7202419646 2958.6285120991 2917.1160562902 1829.6257031768 327.4473884925 1947.4351898344 3076.4379987567 3062.9822372187 3066.2030312038 3017.6048286276 3122.6742857439 2852.7001765868 3222.0894600862 3056.8985152467 3181.6506022723 3122.1732733462 3018.4637070236 2902.8014163561 1975.9213233033 2572.2692229578 2925.633267051 3183.1536394654 3185.9449942526 2959.6305368945 3160.3217887705 2977.6669832114 3015.7439254361 1990.8085488347 2571.5534909611 2568.5474165749 2613.07310409 3049.884341679 2876.0330396793 3101.9180578394 3342.4755819319 2958.1274997014 3343.9070459253 3124.1773229369 3054.0355872599 2137.1757421609 3014.6703274411 3268.7551862713 1902.4156472417 2731.2404567459 3272.3338462549 3351.7800978891 2641.0582251611 2992.4826355432 3272.9780050519 3176.1394658977 2926.062706249 2512.5771744326 3261.3831467053 3485.4072616739 2344.7380212053 2922.9850586632 3111.8667325936 3183.3683590644 3385.3479285346 2956.051876911 3163.9720219537 2997.6359059195 3125.6087869303 1369.7678952939 1965.6147825507 2892.3517292042 3054.8944656559 3032.1341881607 3055.1091852549 3071.8573139778 3157.8882999817 2839.5307078474 3096.4784946645 2769.6036917693 2769.5321185696 1643.6785304328 1400.6875175515 2222.3478497688 2523.7425935812 2463.1200934603 2452.1693939107 2499.4792788929 2471.5657310214 2236.7340629025 2479.2956365858 2448.6623071269 2274.4531391289 1896.9760840667 2446.9445503348 2339.2268848307 2157.6456772666 2189.3526047207 2132.595057382 2247.6847624521 2155.5700544762 1942.1387730588 1882.9477369313 2039.5498978103 1609.53811419 1412.3539490978 2046.2777785794 2082.4938176126 1930.8302075109 2105.2540951078 2089.4364179807 2025.2352578762 1867.2732062035 1744.2388759699 2098.5262143388 1673.0235422977 680.517982467 1422.1594774527 2088.7922591836 1996.8922708067 1961.0340977718 2053.2203789474 1968.9787229352 1930.2576219135 1929.9713291148 1866.4143278074 1914.082078788 1683.0437902516 1394.1743563815 751.4470233405 1708.2375565356 1973.3446881151 1802.213167703 1943.7133834515 1902.7019400404 1978.4979584914 1932.5479643029 1723.1247820671 1928.181999123 1769.1463494552 1771.4366918447 1711.1720577221 1717.2557796941 1776.1605230229 1651.0505699989 1658.852048763 1227.4088011493 1300.9860504105 1744.9546079666 1595.2950474556 1703.2274325587 1534.0283885377 1707.3786781396 1630.5806348931 1700.1497849729 1699.7203457748 1665.5083563323 1544.7643684882 1377.2830812593 1722.8384892684 1676.6737754809 1480.7063547831 1612.8304813749 1507.1168654615 1488.6509799466 1296.9063780293 1402.8347135416 1490.5834563377 1439.9812041706 1113.5358404735 1267.2035001661 1488.2215407485 1447.6395365354 1347.2223373977 1434.470067796 1401.0453835499 1415.8610358817 1203.0739132613 1331.4762334702 1307.2844919815 1283.8800556893 1322.81587631 1116.47034166 1271.2115993476 1311.4357375624 1135.9382519704 1295.1170480375 1260.260899798 1337.4168090428 1243.3696246758 1146.4595123219 1048.8336679714 567.360753788 603.0757804236 792.5300399514 1157.1954922725 1223.9017143654 1122.4824904323 1170.4365342116 1207.6545980402 1173.4426085977 1033.8748692403 987.5670090534 1119.1901232475 1072.8822630607 1128.4946392046 1093.6384909651 1101.9409821269 1087.9126349915 1006.3907605668 1121.4804656369 640.4369906516 1031.0119412534 1083.4750966119 1106.0922277078 1091.9923073727 1064.7944914979 1122.768783231 948.344895634 1019.9180953045 1063.3057689448 946.8991170007 1071.3649112277 1023.3536088887 1031.1336156929 979.6939570897 1004.0503169376 970.4180704124 671.8075240671 629.3932459424 1010.8211416264 1066.4406750903 994.0586982636 918.8281080899 996.6138614918 946.3551606832 960.2117321394 893.9707358443 941.5883855851 893.0617562085 893.2263745678 926.8872503728 850.9910294422 810.5163850286 853.1525400723 771.4445753284 902.9030711632 716.590875101 827.6867956295 703.6146540007 858.212765289 839.7110931741 795.0995178195 758.8405348665 1017.2555722768 833.5915846023 817.7238062354 687.8900220331 539.1609131178 500.6903182949 672.9598525818 687.6108865544 694.2600368038 670.970117631 441.8571481658 702.9991244835 662.8895033882 685.8501858425 652.3181417969 590.9799096793 604.8507957754 602.6320265856 626.6305204351 643.4287503978 623.1592202511 632.6784558073 636.6221391091 631.218362534 614.284143492 620.4752252635 590.1425032431 557.9417207114 570.7390088124 574.2317809564 603.5123769416 576.2930891069 565.843401955 549.1453744718 457.674825293 199.8180588401 46.7516140248 26.2244203593 13.7706836166 34.3909224417 40.5319029734 41.8488498473 43.7240676787 22.7674348152 17.2920850404 47.9325718193 22.4238834568 42.9940210421 20.7275986246 20.7275986246 123.9862537892 99.1575108235 79.4605662742 116.8933497018 115.998684706 93.0451595716 108.2759364615 94.6126126444 87.9276757952 86.7538753206 89.3591397886 83.0964848174 134.4860421809 148.3712429169 153.4529400935 120.1714022468 146.1095298073 133.3480283061 147.0113521232 154.21161601 115.7481785071 73.6631371009 117.5518231388 120.4934816453 86.8326058402 106.4579771899 115.0682331102 111.9691135645 102.9723623659 90.8979635815 100.3169966582 114.6244792723 96.3160547966 111.6184048861 107.5530471448 100.2239514986 95.9868180781 79.8685335123 23.8052462104 49.7147444911 83.7621155744 96.9387416337 102.2494730493 111.1460217683 87.1976291586 111.0959205285 109.4211076562 133.4625454256 131.7734179133 130.0842904011 123.6999609905 108.6695890597 128.3164323693 112.1408892437 103.816926122 78.0863608405 79.8756908323 78.0863608405 91.3274027795 124.1079282286 107.3597995057 91.6136955782 119.1693774514 83.8837900138 96.8385391542 84.0269364132 103.5664199232 92.4010007746 59.3341825268 98.2700031476 134.2713225818 132.5535657898 124.1795014283 121.3881466412 129.9769306016 38.2916618237 105.7173502379 103.5664199232 108.2902511015 116.2348762649 20.0404959077 110.4374470916 116.3780226642 105.4988963143 125.539392222 127.2571490141 133.6271637848 82.7386188191 110.0795810932 76.1538844494 99.7730403407 149.7311337107 115.8054370669 77.5853484428 103.2085539248 104.8547375173 92.8304399726 97.7689907499 112.6562162814 79.0883856359 76.2254576491 59.7636217249 48.2403365779 93.1167327713 102.0633827301 80.3051300303</data>
+                    <metaData>
+                        <property name="@source" value="Txt"/>
+                        <property name="@id" value="demetra://tsprovider/Txt/20111201/SERIES?datePattern=dd%2FMM%2Fyyyy&amp;delimiter=SEMICOLON&amp;file=C%3A%5CUsers%5CUTZK0M%5CDesktop%5Cproject_for_sa%5Cdata%5CIPI_nace4.csv#seriesIndex=1"/>
+                        <property name="@timestamp" value="2024-02-28"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="estimationspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Log</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="period">
+        <integer>12</integer>
+    </item>
+    <item name="d">
+        <integer>1</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.45545519025404857</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.4120354018019997</value>
+            </coef>
+        </params>
+    </item>
+    <item name="bd">
+        <integer>1</integer>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.7914610229872155</value>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="outlier1">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1990-07-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1990-07-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-2.0219771362735424</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier2">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1990-08-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1990-08-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.5228555525073644</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier3">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1995-06-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1995-06-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.40589114971053397</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier4">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1999-05-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1999-05-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.8531378922103134</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier5">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2000-06-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2000-06-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.5902844939696076</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier6">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2005-09-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2005-09-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.6517713288650301</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier7">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2007-04-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2007-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.46783631686896426</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier8">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2011-09-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2011-09-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.4186528926181</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier9">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2013-10-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2013-10-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.8453785971739461</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier10">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2013-11-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2013-11-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-2.3975374693328653</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier11">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2013-12-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2013-12-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.5766644185788538</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier12">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2014-01-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2014-01-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.8336067999374118</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier13">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2014-06-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2014-06-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.664104237998166</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier14">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2014-08-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2014-08-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.8581952391223766</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier15">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2014-10-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2014-10-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.7519680911057816</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier16">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2015-01-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2015-01-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>1.6360589599314659</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier17">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2016-01-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2016-01-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.41513270216124776</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier18">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2018-03-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2018-03-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-1.290023315360907</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier19">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2018-04-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2018-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.4071797081227018</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier20">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2020-10-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2020-10-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>0.4090814072998233</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier21">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2021-04-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2021-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.9647807338967398</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier22">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2021-09-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2021-09-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-1.696606086795961</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier23">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2023-07-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2023-07-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-0.45172875568401466</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Uncertain</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa3">
+        <subset>
+            <item name="name">
+                <string>RF0811</string>
+            </item>
+            <item name="ts">
+                <ts name="RF0811 (frozen)" source="" identifier="8d5a4dec-05a4-4630-a56a-421346119f42">
+                    <freq>12</freq>
+                    <firstYear>1990</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>266.9321420748 250.2395159011 284.8033410792 242.2344214316 237.3385275239 264.297232977 266.097265818 238.281787522 274.6490414858 304.1726269903 280.382923487 221.9864851864 294.7492055228 273.4161803695 284.2232277397 273.3209777177 262.9812725495 271.3522597993 280.8797192439 198.8191355735 295.6835824965 293.4305835819 247.7129855423 202.1007964375 288.965585104 264.8755897207 290.2930368299 276.5054216362 243.2593243572 264.55656987 259.9872151411 179.5794019915 265.0006534786 244.7209234083 238.0680447289 194.2459849973 225.7473755484 252.622336547 272.1075123602 249.1317939963 219.6364449977 252.8015828648 258.747507175 186.2318433642 283.7473777595 242.4182334741 225.0954731244 198.7114261608 246.3216017191 214.931258402 279.9694962284 222.095802525 253.5523441651 261.2565764411 236.6792004924 190.6369038866 261.4344023377 252.802515225 231.7289377464 188.6788375077 247.7264140994 232.8851420342 262.0666076291 238.6090637139 249.3412698676 257.3301381509 236.4050721958 188.0195172858 269.9102622243 243.1405102738 234.8011624669 166.52621127 233.890842773 221.7818610733 213.9467211304 216.4959446746 215.7203381873 212.1675058464 237.3687181564 161.4765839012 237.7283271822 254.6931384665 205.2321163427 183.7378191657 211.9223753916 217.0067239295 225.0435104787 267.1424059931 209.9330222036 230.0138240562 232.5856906231 159.1546631436 258.4993982131 258.219950257 226.3291359392 197.8731700205 209.4588897475 210.2603308403 248.5083243611 216.0479169363 180.121480728 220.2555093145 224.3617383211 149.1369209946 255.0594110542 186.8387541456 196.4467940122 170.1640381078 183.3897082478 184.6872647124 220.7651733733 210.4838523777 199.3985302738 230.1555586328 222.3597306812 167.0851363891 265.7809838594 221.9161959786 197.8084965425 178.4308739741 201.0387516166 199.4771553967 230.9098879668 188.457471167 212.6078510533 220.7473261585 222.1808978528 199.7237826299 247.7482809622 245.1234790593 218.769843646 157.7023438245 216.192914526 206.6099220245 236.2785804757 182.1558987426 201.2216889919 221.4557743372 222.6748186013 161.5159013036 223.8838829328 209.5694771808 190.0327501997 147.8672783944 195.6414482377 205.2104685581 205.5756517895 208.4208840692 208.4875441509 201.3989096667 210.0549421317 154.310976025 210.0964972306 209.3219186201 182.0600429869 144.730157105 197.583659578 201.6829404844 225.2050034955 222.6797510521 198.8118479424 202.0867889931 220.1314223887 154.4041873074 223.7894977609 225.3926762857 188.8538486708 166.5974645298 202.6503978262 224.5794566454 230.6880477651 232.7607608023 203.0136582032 230.4193765453 214.3376945707 164.9950094958 222.3237606422 198.5426659631 202.0915510545 167.6531774775 194.5879792691 174.886675641 204.6308076827 203.6745946774 181.3855717566 221.62012458 204.5097833023 164.2097326577 209.7002853507 201.245685642 208.2277863673 165.8477414659 198.2456984252 192.0869858103 216.7427224173 191.8376283013 200.1312441068 209.3376387908 189.4995332198 170.5429749798 191.2967773282 201.6088999766 202.4928418822 169.5479098056 198.7880794392 192.2366200818 228.0638736534 215.0637962738 198.181020031 199.5443909448 214.3921988686 174.3806535958 214.9527692425 226.1683830337 207.4095422988 152.0730757723 217.0865335918 216.7588094755 206.6594646863 225.3684439907 190.3925838547 209.01816554 221.0417652867 172.2657474917 200.7994197169 215.9593721126 178.3697829019 117.8587778345 146.8873389696 171.8837115092 183.4081904078 176.9148824179 163.5359206848 179.6256222045 191.9356012148 134.1968297487 187.2805310154 176.7580598402 156.3266947162 119.2428991134 131.2332026518 165.3082136547 189.6587481452 180.1951946032 165.9655516189 195.5263855296 193.3145971915 156.3307813087 197.1884811472 173.8260208618 171.7438635553 127.3229027551 176.5243442942 175.6665048473 213.2836532231 177.8756375135 181.1161065731 167.6750822931 187.9836503368 153.6769452463 182.0026066331 178.3349918193 169.8679295634 114.0897305207 177.1156681376 115.4455487257 147.8105921887 142.1025488271 129.5666443027 151.3929861552 136.7882715432 87.9697018458 135.9610209317 146.4090990621 125.6343751524 93.4432508583 123.3817957192 113.6144718528 114.2471043818 128.108195751 109.5924850005 112.3808276916 124.5074243068 74.2968133995 117.6781970809 122.5536610706 101.4941032366 87.0749707282 115.1702465395 110.9216443537 122.1068433135 125.1517668144 105.8577686103 118.7123905606 123.6877142157 67.486146722 114.6522314943 109.9181715436 91.3054098748 73.3149260736 107.1427474462 99.6172833616 119.6054957903 123.0385901754 104.6563394532 123.6253788886 125.3926185784 77.0314442902 119.0329965961 109.6969869846 101.4155339543 80.6551295365 106.5679173775 106.8747484917 100.4997316557 109.4609169038 102.7888997053 116.4536828846 95.9738199447 80.7676229604 127.0132552269 100.4243397034 102.3977978625 76.7522506219 101.9751073354 99.580822285 126.7887105676 113.3452196802 116.0336705838 127.0056126384 114.8122963983 87.7001683257 109.8377476445 116.8146936779 113.3790854597 80.5048631438 94.2726610424 93.3246171273 109.6906710734 108.9084279484 98.6551430012 112.1961953125 125.4820585571 112.4760864197 100.69307938 114.7176171502 96.5013810219 76.4245021173 98.4722465474 98.7371533528 106.2315715943 105.8115925255 101.5076721342 101.44686051 122.9604330001 105.2444484988 107.4808436714 118.5842438493 96.5522496607 75.3055582022 94.0360729212 90.634011631 83.4424440902 56.4720980379 59.7006127799 92.0487029827 101.7565877564 69.4599245364 86.4861813559 75.8059681527 88.4280903615 75.2577489645 75.3290256892 105.8821004584 120.2278630938 117.2289367882 90.851099546 114.0539005666 106.5834839281 92.1267961406 104.8048986187 101.3409873892 89.4864397717 82.0844680086 81.0740203518 98.4555213567 114.176506977 104.2286950922 97.7640038439 101.8103704671 93.6265726758 85.5361041744 98.3024258741 99.6885146287 95.8339465127 66.1971525444 79.7954510898 93.069805386 95.5017889316 89.8332309957 74.2383827745 90.2466045901 106.8754061807 91.7773703653 114.0482265642 81.2700584059</data>
+                    <metaData>
+                        <property name="@source" value="Txt"/>
+                        <property name="@id" value="demetra://tsprovider/Txt/20111201/SERIES?datePattern=dd%2FMM%2Fyyyy&amp;delimiter=SEMICOLON&amp;file=C%3A%5CUsers%5CUTZK0M%5CDesktop%5Cproject_for_sa%5Cdata%5CIPI_nace4.csv#seriesIndex=2"/>
+                        <property name="@timestamp" value="2024-02-28"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="estimationspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="period">
+        <integer>12</integer>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>-0.11067272511057034</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.18432932580249817</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.25199813388564807</value>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>1</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9692521590126395</value>
+            </coef>
+        </params>
+    </item>
+    <item name="bd">
+        <integer>1</integer>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.7529846673876288</value>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="outlier1">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1997-04-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1997-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>50.16081081873373</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier2">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2008-11-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2008-11-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-27.89067314148142</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier3">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2012-02-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2012-02-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-46.23257018929977</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier4">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2020-04-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2020-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-42.45781540600823</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Severe</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa4">
+        <subset>
+            <item name="name">
+                <string>RF0812</string>
+            </item>
+            <item name="ts">
+                <ts name="RF0812 (frozen)" source="" identifier="37f10060-e4c1-429e-92ed-579fe4dd97aa">
+                    <freq>12</freq>
+                    <firstYear>1990</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>87.843249242 89.2222267939 108.7575356846 103.3455029208 110.4425157949 115.2586853375 116.1509732464 85.1855274616 105.5379548148 120.5852777515 106.8298379708 69.5992858401 90.0198395914 70.000262749 108.0759834093 119.4525256272 110.176687982 120.4252890276 123.9480075452 85.4923654407 110.5963785096 122.4049699529 99.0818817393 77.2034551344 80.4413808108 85.8275608622 108.3139223425 107.7543181411 97.192393648 113.2389137457 107.2766205973 74.8747368637 105.01861752 105.1254115462 92.0379102679 68.9946301073 70.9674874911 80.3520862215 94.7378804499 96.0761544788 89.3823263663 109.2447425641 102.2740214828 73.855945522 99.7347795343 94.9243454101 82.5160151081 70.7194237561 70.1155329153 72.2552151536 102.3261524237 94.0375318479 99.0366751721 116.6046461751 101.2405413279 86.1748488077 105.4446984079 103.1807849388 99.3922316752 79.6038067848 72.1759675729 82.6785927834 101.2415733007 96.0417375446 102.9296702962 114.7672484682 102.6338234307 80.5213675454 104.254841548 109.6011608357 94.4731998053 64.1376128912 72.2644031144 67.0318416072 89.47939154 98.4639715076 91.9674576356 102.0802347778 108.1967755474 68.390827093 94.0791751518 104.7667080338 76.6950050585 64.1736442177 52.3053469444 78.6791199556 88.982974576 106.2411120331 89.1474414689 105.6838334374 108.9983784532 69.1395210187 104.2317624408 108.6195260747 82.0653894259 66.7457329898 70.4992195241 80.3077932082 98.1154876977 94.9707530041 87.1025962105 110.1590389387 105.1130898628 70.5368619742 106.9653915286 105.2814698721 85.4092716197 73.5523677643 72.4874142132 75.3520155202 102.2028399213 99.2980328606 92.74673213 118.7690136063 107.500757282 79.4061785008 110.6306626654 104.8234752412 94.507890086 78.1040829395 77.6150769699 96.5053619812 113.0457953893 99.6400424141 114.3607411151 109.9499662873 107.5035132286 84.8712032831 108.8147572636 112.9596967468 102.4909644878 76.8424022381 85.0029339194 92.2690252749 103.1838198405 101.0142310665 105.7922102877 116.1839025222 119.0573667132 84.8889789225 104.0109124026 118.2684338082 99.8814901857 65.5486158991 79.5672937901 87.2299560713 100.7862682731 108.7001189599 97.6673402268 111.2127731924 120.5576371904 71.0919698088 106.7718281644 111.4479977491 89.4613400269 70.6798632293 69.8949728749 83.6022998119 103.0909143877 108.6080084115 94.533002702 110.5316873 115.4271506047 68.151338939 112.9185546217 118.3451112628 93.8758945202 74.6558642563 75.0097029418 89.2138161165 111.4862494673 107.8196873316 98.6802240492 121.179891744 110.4561887549 74.9424100192 111.2642077847 105.3307056731 96.4004586046 75.32541761 79.1578765123 81.901625011 99.1814103404 108.9627291867 108.1335684081 119.6422919907 104.9850277317 81.5703316327 112.5035606478 106.9020643727 99.2997002063 75.8505824444 80.7321680869 89.6089771188 109.007506974 102.822702149 111.1374084909 122.0685897716 109.2508552727 81.3019851769 111.3860971457 117.6443501488 111.3795708137 76.9369135541 86.7246578468 98.4247238455 112.1475613376 111.5552311528 109.0642247679 125.6517030898 126.5975975056 85.4752137924 112.104249345 127.8573177468 109.4915824729 71.3895417247 94.5366299451 108.2069368977 106.0197276526 122.0063587453 107.0273083609 125.0620585588 124.67728936 73.3451896869 117.861956574 116.7723220597 88.5612189069 69.1769247953 66.3448922602 82.1575776313 102.0268311489 103.1080000584 89.8884465763 111.9762721207 108.0114176071 67.5320506392 105.2594703398 103.0346278411 91.0242507816 61.1427847133 55.8384253761 72.1983059429 104.0118105472 103.819102827 96.784112175 118.72620301 109.1482022336 73.5098293727 106.1112977646 100.4284798503 88.3251644185 51.1474194873 70.4929362619 83.3654624896 105.5848886489 96.3876752653 112.1647631756 98.3208341847 99.0977786557 72.2357822862 106.3072531336 99.4019551544 90.1690892157 63.7382167677 80.9708837923 61.9451489269 103.7594388777 95.2137986529 92.1507628174 108.2769344436 112.11717555 68.9480138001 92.4861268369 110.2176843884 94.0424546613 55.8884080853 68.6484949874 74.7595338788 90.2982512618 103.6686605962 88.4908853331 102.495441549 121.6743271267 70.7283128483 98.9077245859 110.3677556355 88.7493596449 65.1092067585 80.2613189281 83.3733227024 97.3593249567 107.630195241 84.2052815068 98.8775188898 108.9317405629 63.0807849065 99.5992062597 103.7520569575 78.9354526652 60.4523788679 74.5672638786 78.6684166702 98.7561494321 106.0869276271 85.2748508961 116.4885049186 109.6287372899 64.660872851 105.165188367 104.1995517914 92.4896816807 67.6029739214 70.4505702106 87.1257389274 97.819496344 100.4257591631 97.4407222473 111.4315858048 100.8688793382 73.6362643711 105.419860568 101.1807674309 97.405261918 68.2833602643 67.7317556582 91.0929772523 106.5805430828 94.6020605807 99.8115901204 107.4348697819 105.0874507956 69.9271454495 97.2924452639 109.7868265871 105.2638922154 65.5072929635 79.482972518 80.9193950426 104.880609559 104.340308046 98.3375845255 114.9340984281 119.4558702124 77.7317569049 101.5787854118 117.7621525967 100.1303914503 69.3406224689 79.9677545385 88.793781612 107.9684099539 106.5430975991 101.6400863396 105.3522502415 123.1526444345 68.6054889247 102.4734363096 116.3132612784 97.0923361841 69.0670460083 84.5542796414 93.005526759 68.1396994154 44.2010610247 77.4863780828 112.2964490564 112.7394231897 75.2642485803 108.8031992796 106.7304782505 103.8422345383 74.8055043583 81.81900021 91.5109284053 117.5074401609 107.7371049101 101.8317057384 124.9061980728 108.9489631301 78.5893330817 107.872179906 107.5565226065 98.8968945856 72.8237291926 80.6277746752 93.800303992 115.9072684398 98.9965689247 104.1781173 110.8696154141 97.6710636608 72.8722617406 101.0082507097 101.8951281962 96.7563358546 68.3414399094 67.8283700748 84.4579100664 106.6261332137 91.2819279025 91.776780555 110.2204407691 98.4264693601 70.5479839209 91.97388443 98.5797650899</data>
+                    <metaData>
+                        <property name="@source" value="Txt"/>
+                        <property name="@id" value="demetra://tsprovider/Txt/20111201/SERIES?datePattern=dd%2FMM%2Fyyyy&amp;delimiter=SEMICOLON&amp;file=C%3A%5CUsers%5CUTZK0M%5CDesktop%5Cproject_for_sa%5Cdata%5CIPI_nace4.csv#seriesIndex=3"/>
+                        <property name="@timestamp" value="2024-02-28"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="estimationspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="period">
+        <integer>12</integer>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>-0.08149939484107847</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.20584741427277514</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.5691754414208716</value>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>1</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9999996318354747</value>
+            </coef>
+        </params>
+    </item>
+    <item name="bd">
+        <integer>1</integer>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.8514635284218393</value>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="outlier1">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1991-02-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1991-02-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-23.918900851182173</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier2">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1997-01-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1997-01-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-20.643291665775113</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier3">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2010-01-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2010-01-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-18.37781116510776</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier4">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2011-06-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2011-06-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-15.97777637067558</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier5">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2012-02-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2012-02-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-17.88154539701455</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier6">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2020-03-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2020-03-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-44.70102624160115</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier7">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2020-04-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2020-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-38.048698243188646</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Severe</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa5">
+        <subset>
+            <item name="name">
+                <string>RF0893</string>
+            </item>
+            <item name="ts">
+                <ts name="RF0893 (frozen)" source="" identifier="50db2100-36e6-4f11-bea3-566be9039810">
+                    <freq>12</freq>
+                    <firstYear>1990</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>112.6229671745 85.8559966733 95.5581612099 88.6469087355 73.2932572028 88.50168251 89.2882408212 52.7740418084 103.8879037322 102.8336537336 102.4054390587 100.8260670902 100.5517500258 86.370538126 106.8434201124 83.9356969345 97.3112153596 91.528605542 92.82980286 55.0315357821 111.3994793712 103.5063549843 105.5867084305 112.8446804773 111.9654865591 107.6947289362 92.3928515679 111.2506183029 78.4120551189 111.4667314793 103.1267679054 71.0831017158 124.5018736619 103.6223065118 121.6422830479 104.1481904576 107.7372500786 99.7260390242 90.7641915983 101.095577057 82.5164552203 108.7354277297 98.562782859 56.6040508685 121.1182579378 106.6358909886 118.1627805825 120.3205283054 143.2741330567 95.1264782999 92.8228210978 109.9746761312 95.4279411784 115.383759778 103.4965632169 62.7584804398 114.4787895908 131.4128732067 110.5707879797 140.5677272885 130.215227188 96.3248956678 123.8223605791 113.7950097132 101.0648554642 121.0177569226 104.3614994053 83.2841712312 126.1252713514 115.5554054594 108.8161993694 134.3059371746 130.2716381959 110.6031932224 124.0853263818 110.6707528276 97.3364921558 107.4577039873 95.9022934995 66.594911597 123.9189969492 130.2840181768 124.4678379946 108.4418491513 141.1851809608 131.5590211826 99.4704241103 130.296537834 104.8737276029 135.7818238027 125.7547213645 82.4282473482 142.1689588648 135.2722149789 116.0871445133 138.7261930533 144.8361760464 112.9921920297 131.9947564179 100.4201326261 111.3371052949 117.2757502128 105.8262709691 86.5888752845 142.6544568025 129.4535700584 137.0888850394 123.2280985555 138.2525492484 127.7575801893 131.3771547609 114.4183668242 122.7125087107 134.6133613371 124.7623081581 88.2654456028 145.8334159591 130.7560516441 131.5814051894 149.9632854905 134.5522800041 136.763203027 127.6919081643 125.4803575186 140.1665859258 128.3791597315 127.4918746947 82.7211512319 138.284043509 135.4723612406 141.4693083104 164.9196274545 157.4063702176 143.158181934 154.1207799521 125.2693551223 129.6324555701 136.1917980411 137.5728573521 97.4010243248 154.1795970656 150.123172375 150.8702663517 143.517720385 134.123725534 145.6327379475 145.4059714436 141.6507906218 114.5172527911 146.5757714584 133.4423838413 79.5353098388 146.5367791323 138.8497462158 137.5297066315 151.3537791734 136.1245973974 121.8220826583 131.085807876 118.4067091874 122.785269185 128.6513450618 122.9006535508 87.0188027242 146.4366703179 128.2890680588 138.0183542353 144.309808103 121.2464532072 148.6902103944 142.5589385425 123.3304667423 144.0058379023 144.9057184221 128.2898374293 97.353810894 144.8029683764 133.5071108812 140.1223770509 149.61353596 143.9189641164 141.2778973417 150.8580392542 136.5197138823 145.0806580527 145.871081712 139.8525470966 84.9159883781 157.7734374526 131.7424672531 149.2258600447 166.7600796852 155.5334042014 147.0772379517 156.0352751588 143.4415499486 147.9723950011 147.8131112574 127.0476773463 113.3131042904 152.1132743885 149.4381047035 145.7434292936 138.1401108236 169.4745313579 151.3661983139 152.7161166447 115.4818322733 142.1676406197 132.5590712909 139.2760155365 86.4301578278 143.0685324147 122.9154438033 140.1170025695 149.7622274388 140.3082353754 139.142618668 141.5431789718 99.9806745264 138.8904881665 139.8231740325 131.9362639513 90.9344630677 139.2783043899 116.1546873375 132.0504597526 109.4720301285 122.7910609024 128.353966106 99.5485613786 91.516902628 106.2060926267 106.1720557502 87.2281173896 65.0856593502 81.7979966387 82.7520626788 116.9683069987 132.0981689964 119.4608241055 130.187653795 134.3094926768 106.169199094 120.6350027568 123.7540337494 85.2357387107 50.3177275778 124.839382841 117.258501436 120.698620629 140.6208833751 114.0288017797 122.9132160369 142.2548879964 90.1468539497 119.8271645637 128.3818986563 75.2302789096 74.8294410416 108.1082175148 119.4546884871 124.2393669231 114.8983012322 133.785153077 118.7699277178 112.6078703812 94.3973783638 112.4201287964 120.0412241732 101.1656136438 49.9409071684 112.8331299792 114.8073782997 110.8219097414 43.937835033 121.4586057722 114.1060347616 116.4520339436 113.6672141832 79.219559565 115.5219390821 128.5225516941 49.667863726 124.2172974773 127.2110971708 95.5428151467 99.3296078307 121.7175421295 111.4254849636 105.5670656708 94.1677432711 92.9658346676 94.5470938873 108.9193873889 64.0606136643 119.0449060654 104.9237988497 113.9347926903 88.8992093423 130.568633692 113.2623555257 106.1738592662 83.1362233851 110.6817798414 113.0724847274 106.9036660913 70.0198384987 108.2006384778 110.8034626532 110.5855136291 80.6378951292 117.1713280587 114.2697318546 118.6945114758 69.0425854893 88.1765370012 109.6094215416 112.3367998426 61.9519735204 107.1340418829 97.8253371056 121.0048447544 86.8097738155 120.5321035338 99.2209971424 108.3146626014 82.1830655684 107.9194292762 116.3474562427 120.6304615634 65.7219425801 112.2763690251 121.5588853511 100.8009202119 96.7139157177 115.4561916262 109.7179637699 110.9195026421 110.3362435497 87.3710273978 105.839448749 105.1873129231 59.1140410972 100.0430956102 111.4678472219 106.7790112206 101.9007352808 112.8084266022 108.1521390435 99.2128354113 109.9129743677 98.2573036187 115.2128216564 117.0958320195 71.5760382389 118.3495007835 113.6925182974 118.0130959996 99.1315327477 119.8146733409 103.7089217419 105.5128546035 109.7535890647 94.5242485833 97.6877909757 104.2463204662 61.3485774474 108.8177380527 90.1093212113 92.6606353809 92.2131517193 98.7562753579 102.3465121514 116.1783411817 96.0906815529 106.6482860627 99.5210217414 94.3480656081 48.593157506 107.2715027431 112.0246764778 108.4484076241 109.7730719929 123.670559544 108.6073962465 114.4150271364 89.7258246303 105.4920885729 97.7007515406 103.464923055 51.4782208933 90.1773060906 97.5126434061 102.0550735474 98.0287827847 121.095944779 80.6728422502 98.554589457 74.2040597104 109.8773358169 72.3898528964 96.9771100162 38.5212484011 95.0541209182 96.9548461196</data>
+                    <metaData>
+                        <property name="@source" value="Txt"/>
+                        <property name="@id" value="demetra://tsprovider/Txt/20111201/SERIES?datePattern=dd%2FMM%2Fyyyy&amp;delimiter=SEMICOLON&amp;file=C%3A%5CUsers%5CUTZK0M%5CDesktop%5Cproject_for_sa%5Cdata%5CIPI_nace4.csv#seriesIndex=4"/>
+                        <property name="@timestamp" value="2024-02-28"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="estimationspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="period">
+        <integer>12</integer>
+    </item>
+    <item name="d">
+        <integer>1</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.8798521556022423</value>
+            </coef>
+        </params>
+    </item>
+    <item name="bd">
+        <integer>1</integer>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.7964773369663025</value>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="outlier1">
+        <subset>
+            <item name="type">
+                <string>LS</string>
+            </item>
+            <item name="pos">
+                <string>2008-12-01</string>
+            </item>
+            <item name="name">
+                <string>LS (2008-12-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-26.22697993416642</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Trend</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier2">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2012-12-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2012-12-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-66.41391520450847</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa6">
+        <subset>
+            <item name="name">
+                <string>RF0899</string>
+            </item>
+            <item name="ts">
+                <ts name="RF0899 (frozen)" source="" identifier="b1a322b6-2952-4c2e-ab96-452c6c221b0e">
+                    <freq>12</freq>
+                    <firstYear>1990</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>111.9801725671 106.4072199646 119.2947893653 104.0684235822 111.4016248696 113.2659260459 137.6803104301 52.5565814045 81.8724310107 127.5982714249 121.1045693856 97.0141464078 113.6600680138 102.1408283132 109.9333728329 114.1043345654 110.5848263985 116.1801858979 149.4728843759 46.0746897495 114.7732808638 126.8033966326 115.1236316113 111.4366981168 117.6722316298 106.8505533248 119.121833032 126.1596789533 105.8534376537 136.164305424 140.5765735125 35.6042675176 119.109390193 117.1405534579 107.062312989 98.6179225967 108.3365645561 102.1842156792 116.127458513 102.9200086979 92.4555609891 108.3029091652 127.7208121026 31.2800853014 112.4308260294 100.4458645829 99.1578862248 91.8678340808 94.5497053839 91.4287960482 106.1609114788 99.7329596057 102.2058545177 111.9683373661 124.5634374202 39.5555849559 108.4140513577 105.233162855 97.2253485734 104.9837792398 100.6343171004 105.5062335988 118.2141804718 101.5486824738 106.2832885309 121.4451068853 120.9124880287 69.1465710412 116.5819574365 113.6986089904 108.7799348102 87.2571310602 128.3984338874 119.7541574371 132.5406305374 120.0637301283 122.2807197326 127.5393229061 142.8221598435 74.2966101371 124.1214855288 131.6237651164 108.8378292485 90.2402183566 111.9839947228 114.9965246756 120.6099978978 123.7105744775 118.3348023044 125.0062442881 136.8958243589 71.5511976058 115.6363585349 136.6177822318 109.0168894012 95.539616241 122.0958982054 116.9387525046 125.3333997646 146.040644641 116.846190187 127.9776926247 143.9956705559 75.2704102659 134.498504444 137.1617140763 120.4035788672 109.804943435 127.5655227036 121.5121392212 132.5589929105 124.5627869368 115.5812205129 141.7071692034 138.1769223464 78.5074130687 130.5908692492 123.2867055561 118.5945567593 115.6741778387 117.3399314555 117.8653452448 131.7028736445 116.1977732035 133.0246430816 124.9738318428 128.5165329595 84.8370924806 134.747010769 137.4619702996 128.3391661408 110.949900866 136.5811427073 127.4788357863 136.3967548117 122.8233393106 129.1632072888 135.7487950455 138.2685574147 89.519414842 125.0666823767 121.7433208548 116.6233212159 85.0985939155 120.6273768157 106.7688438189 112.0542606421 109.3814629373 116.8173661927 102.4359355121 122.2069984874 69.4557121246 109.7862084695 121.7528433897 103.340827658 88.9324127024 127.0307359352 119.1499511206 131.9868344157 121.6815520228 117.7102613129 123.7355849082 133.705838752 82.6524480573 126.6889034993 134.959097673 115.4787002024 103.3053999489 125.515508154 111.2321735124 123.735572855 118.4273552758 107.0173775143 131.4060573891 128.553693896 85.556180365 134.3655513853 121.456198552 125.6242981913 102.4184883959 126.0822546679 119.8158679203 134.4344746141 137.8873366198 122.0784422792 129.5493830632 116.7793911382 91.5170749339 130.7319989434 119.7137026027 118.436587263 108.0274460662 116.8153527794 107.3953824049 128.0076795053 110.6109558509 119.7604722059 128.2318351486 117.1228685712 83.4101372004 118.0596156519 114.5137503765 110.11624223 100.0332023156 119.8050834093 105.9394595305 123.6728983321 108.9428996332 110.8561016949 124.8301108141 123.2278089978 93.7099978308 106.3936823196 127.3177230707 115.4452928764 99.3329879739 104.768192933 130.2663604121 112.2115144462 134.0514839925 121.4976683351 126.5854409972 128.9929440473 81.2383380438 113.1871472543 108.7169533959 85.7746338609 66.1466343419 95.8659225304 96.8410314411 83.9324538941 73.4253366117 62.1719741749 90.5066072932 103.3176321835 66.0325919522 110.3577948044 101.350538733 93.2177024516 71.5115804834 92.7287168941 91.6302891075 113.1586489055 101.9293537996 96.2301887589 110.9988545006 108.7850547046 89.1037489491 112.3113962575 109.5082961158 112.3786459224 90.5456862283 98.2257243163 103.7687451326 111.6808068688 98.4503261874 114.3973293466 109.4908703271 111.7754805461 95.0565391387 113.9980729415 97.7676259356 97.9450111334 77.4270881655 101.7725616935 89.4948921746 91.1629188655 101.7619037009 105.0445926694 105.5555865111 114.5183898149 76.8277891177 107.7666928121 131.9039459855 123.5914118099 81.8100583595 97.6054879307 105.125295228 105.9680423239 98.5994799959 88.9655770522 97.8735989472 106.145877005 74.4187950286 97.3111981633 117.4424505296 97.655661846 79.8297092524 108.3280292603 104.3654420394 109.0992515019 105.7311871409 102.2973909701 101.4116059529 119.7895164916 78.1981934787 109.6574572232 113.5170122358 92.9947656951 74.9973534631 94.2456145589 98.9499111422 112.7049478615 88.1786284196 89.4540682542 97.2239915977 94.8576896505 65.0682648424 103.1247803559 109.3753547919 103.9097641864 82.6249857507 103.8134411089 99.7916815856 87.1648615916 113.0924121627 114.5214575065 118.13171559 112.3199097085 84.3712485603 118.2061120089 116.6909182427 118.7611793781 101.1781183307 112.8110279535 121.0976350561 134.9726897761 95.6363132959 119.4300985214 65.4836075521 96.533595826 86.1927864252 118.7847917337 120.0055601723 120.9288450447 92.1802069786 108.6015247425 106.7843738604 116.874197839 108.1001273562 115.640807972 98.3951630003 120.8323643481 85.7175265335 98.5656084397 111.1186897651 101.4526160363 70.4368948297 101.6098241798 96.4142192776 104.8876876968 95.1888075632 101.1905322664 105.3343206981 102.8752751988 80.2077336137 99.2726074591 108.541791823 93.9776924055 74.7770509018 97.310887261 95.265181698 85.767466817 74.1767480407 56.5545988551 59.7103555026 92.6431740164 61.5513472214 99.1809391984 111.8397550304 98.1505806908 98.9587085892 104.8527064124 105.7881087411 116.7142422448 114.6685503986 101.3476691992 105.1427420197 89.7252718597 74.3036800773 104.3293769097 100.3369365877 78.764914103 104.0258014469 91.8640632189 102.9015335545 113.4371034304 101.6342855452 98.4288611715 90.8958743348 93.2799853156 82.294018228 98.7238728315 83.4337878308 92.5000207199 64.3781774096 88.6835154667 92.8480716188 99.7251060795 85.5333201952 88.7735944653 94.2439588278 86.7531110234 70.8402581953 93.8473650522 97.1019879051</data>
+                    <metaData>
+                        <property name="@source" value="Txt"/>
+                        <property name="@id" value="demetra://tsprovider/Txt/20111201/SERIES?datePattern=dd%2FMM%2Fyyyy&amp;delimiter=SEMICOLON&amp;file=C%3A%5CUsers%5CUTZK0M%5CDesktop%5Cproject_for_sa%5Cdata%5CIPI_nace4.csv#seriesIndex=5"/>
+                        <property name="@timestamp" value="2024-02-28"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="estimationspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="period">
+        <integer>12</integer>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>-0.12687910547499037</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.3052681554982105</value>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.3617866199644544</value>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>1</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9974341062777025</value>
+            </coef>
+        </params>
+    </item>
+    <item name="bd">
+        <integer>1</integer>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.6957427977661916</value>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="outlier1">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>1990-09-01</string>
+            </item>
+            <item name="name">
+                <string>AO (1990-09-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-33.416991375027116</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier2">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2009-04-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2009-04-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-34.04166930792519</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier3">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2012-10-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2012-10-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>27.212960625921106</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier4">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2016-03-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2016-03-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-32.65460444787834</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier5">
+        <subset>
+            <item name="type">
+                <string>AO</string>
+            </item>
+            <item name="pos">
+                <string>2017-06-01</string>
+            </item>
+            <item name="name">
+                <string>AO (2017-06-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-48.42589369744519</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier6">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2020-03-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2020-03-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-26.699027789529026</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+    <item name="outlier7">
+        <subset>
+            <item name="type">
+                <string>TC</string>
+            </item>
+            <item name="pos">
+                <string>2020-05-01</string>
+            </item>
+            <item name="rate">
+                <double>0.7</double>
+            </item>
+            <item name="name">
+                <string>TC (2020-05-01)</string>
+            </item>
+            <item name="coef">
+                <param type="Estimated">
+                    <value>-34.462407506150655</value>
+                </param>
+            </item>
+            <item name="attribute1">
+                <strings>
+                    <items>regeffect Irregular</items>
+                </strings>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Severe</string>
+            </item>
+        </subset>
+    </item>
+    <item name="domainspecs">
+        <subset>
+            <item name="spec1">
+                <subset>
+                    <item name="algorithm">
+                        <method version="3.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="3.0.0">
+    <name>tramo</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset/>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                </subset>
+            </item>
+        </subset>
+    </item>
+</informationSet>
