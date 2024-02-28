@@ -10,6 +10,12 @@ In this repository, you will find:
 - `Presentation` folder: presentations in pdf format
 - `data` folder: data files (.csv and .xslx) used for the demo
 - `WS` folder: the workspaces used for the demo
+- `R` folder: R code used for the demo ()
+
+
+## Using the contents
+
+To use the R programs, just open the script code_webinar.R
 
 
 ## ®️ Using packages
@@ -41,8 +47,6 @@ remotes::install_github("clemasso/nbbTD")
 remotes::install_github("clemasso/nbbSTSestimate")
 
 remotes::install_github("palatej/rjd3toolkitx")
-remotes::install_github("palatej/rjdoutliers")
-
 ```
 
 
