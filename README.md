@@ -51,6 +51,21 @@ remotes::install_github("palatej/rjd3toolkitx")
 ```
 
 
+## 🎥 Videos
+
+You can click on the thumbnails to access the video playback. 
+
+- [Presentation 1: Recent evolutions of JDemetra+ v3.x](https://www.youtube.com/watch?v=H4WCDryqwyc)
+- [Presentation 2: Seasonnal adjustment with rjd3](https://www.youtube.com/watch?v=H4WCDryqwyc)
+- [Presentation 3: R tools for SA in production in V3](https://www.youtube.com/watch?v=3MEEpbVDjYo)
+
+[<img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/miniature/miniature-P1-github.png?raw=true" alt="Recent evolutions of JDemetra+ v3.x" width="410"/>](https://www.youtube.com/watch?v=H4WCDryqwyc "Recent evolutions of JDemetra+ v3.x")
+
+[<img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/miniature/miniature-P2-github.png?raw=true" alt="Seasonnal adjustment with rjd3" width="410"/>](https://www.youtube.com/watch?v=H4WCDryqwyc "Seasonnal adjustment with rjd3")
+
+[<img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/miniature/miniature-P3-github.png?raw=true" alt="R tools for SA in production in V3" width="410"/>](https://www.youtube.com/watch?v=3MEEpbVDjYo "R tools for SA in production in V3")
+
+
 ## 🙋 How to ask a question?
 
 To ask a question, you can send us an email to Anna (anna.smyk@insee.fr) and me (tanguy.barthelemy@insee.fr) or complete an issue directly on GitHub.
@@ -59,25 +74,25 @@ To complete an issue on GitHub, you should:
 1.Go to the *Issues* tab:
 
 <p align="center">
-  <img src="https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22/blob/main/img/issue/issue_panel.png?raw=true">
+  <img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/issue/issue_panel.png?raw=true">
 </p>
 
 2. Click on *New issue*:
 
 <p align="center">
-  <img src="https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22/blob/main/img/issue/create_issue.png?raw=true">
+  <img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/issue/create_issue.png?raw=true">
 </p>
 
 3. Choose one of the themes proposed in the list and click on *Get started*:
 
 <p align="center">
-  <img src="https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22/blob/main/img/issue/choose_issue.png?raw=true">
+  <img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/issue/choose_issue.png?raw=true">
 </p>
 
 4. Fill the question with a title and a text to explain the problem or the request and click on *Submit new issue*:
 
 <p align="center">
-  <img src="https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22/blob/main/img/issue/complete_issue.png?raw=true">
+  <img src="https://github.com/annasmyk/TSACE_rjd3_webinar_feb2024/blob/main/img/issue/complete_issue.png?raw=true">
 </p>
 
 
